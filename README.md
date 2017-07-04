@@ -43,5 +43,7 @@ Websploit gelişmiş bir MITM çerçevesidir. (%85 çivarı Türkçeye çevirilm
 # İletişim
 
 www.instagram.com/delosemree
+
 www.twitter.com/delosemre
+
 delosemre@outlook.com
